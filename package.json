@@ -1,0 +1,24 @@
+{
+  "name": "node-fundametal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "append-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjriajul1/node-fundamental.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rjriajul1/node-fundamental/issues"
+  },
+  "homepage": "https://github.com/rjriajul1/node-fundamental#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
